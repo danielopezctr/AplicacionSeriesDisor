@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionSeries", "AplicacionSeries\AplicacionSeries.csproj", "{72B4DF1C-4D6E-4358-9C6A-B1FD9EC77755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{2DE42080-CD77-42AE-8FD2-3B806E844BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDominio", "TestDominio\TestDominio.csproj", "{92BC2EE5-38A7-49B9-83F3-1C229FED254B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B4DF1C-4D6E-4358-9C6A-B1FD9EC77755}.Debug|x86.ActiveCfg = Debug|x86
+		{72B4DF1C-4D6E-4358-9C6A-B1FD9EC77755}.Debug|x86.Build.0 = Debug|x86
+		{72B4DF1C-4D6E-4358-9C6A-B1FD9EC77755}.Release|x86.ActiveCfg = Release|x86
+		{72B4DF1C-4D6E-4358-9C6A-B1FD9EC77755}.Release|x86.Build.0 = Release|x86
+		{2DE42080-CD77-42AE-8FD2-3B806E844BD3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2DE42080-CD77-42AE-8FD2-3B806E844BD3}.Debug|x86.Build.0 = Debug|Any CPU
+		{2DE42080-CD77-42AE-8FD2-3B806E844BD3}.Release|x86.ActiveCfg = Release|Any CPU
+		{2DE42080-CD77-42AE-8FD2-3B806E844BD3}.Release|x86.Build.0 = Release|Any CPU
+		{92BC2EE5-38A7-49B9-83F3-1C229FED254B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{92BC2EE5-38A7-49B9-83F3-1C229FED254B}.Debug|x86.Build.0 = Debug|Any CPU
+		{92BC2EE5-38A7-49B9-83F3-1C229FED254B}.Release|x86.ActiveCfg = Release|Any CPU
+		{92BC2EE5-38A7-49B9-83F3-1C229FED254B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
